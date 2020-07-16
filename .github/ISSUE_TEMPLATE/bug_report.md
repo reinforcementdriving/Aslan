@@ -22,7 +22,7 @@ A clear description of what you expected to happen.
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
 
-**Sytem (please complete the following information):**
+**System (please complete the following information):**
  - OS: [e.g. Ubuntu 16.04]
  - ASLAN Version: [e.g. 1.0.0]
  - ROS Version: [e.g. kinetic]
